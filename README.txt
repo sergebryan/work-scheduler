@@ -1,0 +1,2 @@
+We build a simple calendar application allowing employee to add and save events for each hour of the work day.The application displays every timeblock with color depending on the past, present or future events.
+When you add an event and save the button for each timeblock, it save it in local storage and update the color of the timeblock as the day is going on. This application is useful for busy people as it helps them manage their time efficiently.
